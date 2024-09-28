@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SAHIL KUMAR (Aspiring Data Scientist)
 ===================================================================================================================================
 
+<h3 align="center"> Glad to see you here!
 <h3 align="center">👩‍💻  About Me</h3>
 
 
@@ -27,6 +28,12 @@ Problem Solver with expertise in data analysis and reporting, query optimization
 *   Hackerrank - https://www.hackerrank.com/profile/sahilsingh39277
 *   Leetcode - https://leetcode.com/u/Sahilkr07cr/
 
+  ### My Absolute Favorites:
+
+-  📊 &nbsp; I love diving into data, uncovering patterns, and building data-driven solutions.  
+-  📚 &nbsp; Always reading, learning, and exploring the latest trends in data science and AI.
+-  🎓 &nbsp; Lifelong learning—constantly diving into new programming languages, tools, and frameworks.
+
   # <p align="center">💻 Tech Stack:
 
 # <p align="center"> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -39,10 +46,14 @@ Problem Solver with expertise in data analysis and reporting, query optimization
 ### <p align="center">✍️ Code Motivation?
 # <p align="center"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+<div align="center">
 
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 
 
