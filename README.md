@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SAHIL KUMAR an aspiring Data Scientist
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SAHIL KUMAR (Aspiring Data Scientist)
 ===================================================================================================================================
 
 <h3 align="center">👩‍💻  About Me</h3>
