@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 -----------------------
 
-Problem Solver with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
+Problem Solver with expertise in data analysis and reporting, query optimization, database design, and stakeholder management.
 
 >Querying data using SQL.
 
