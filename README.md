@@ -8,15 +8,6 @@
 
 Problem Solver with expertise in data analysis and reporting, query optimization, database design, and stakeholder management.
 
->Querying data using SQL.
-
->>Generate reports and perform ad-hoc data analysis using SQL.
-
->>>Developing dashboards on power BI and Excel.
-
->>>>Data analysis and reporting using Google Sheets and Excel.
-
-
 *   ✉️  You can contact me at [ksahil7r@gmail.com](mailto:ksahil7r@gmail.com)
 *   🧠  I'm Currently learning Machine learning and Big data Technologies.
 *   🤝  I'm open to collaborating on various data science ideas and projects.
